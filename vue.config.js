@@ -3,5 +3,4 @@ module.exports = defineConfig({
   transpileDependencies: true,
   // 关闭eslint
   // lintOnSave:false,
-  devServer: { disableHostCheck: true }
 })
